@@ -8,6 +8,7 @@ public class TestFile2 {
 		System.out.println("변경 코드");
 		//해결
 		//변경하기
+		//더워요
 	}
 
 }
