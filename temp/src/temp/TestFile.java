@@ -7,7 +7,7 @@ public class TestFile {
 		System.out.println("하잉ㅎ");
 		System.out.println("후우 몇번을 지웠다했는지..");
 		System.out.println("하이");
-		//testFile
+		System.out.print("연습");
 	}
 
  }
