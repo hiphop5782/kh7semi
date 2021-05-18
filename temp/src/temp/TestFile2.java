@@ -10,5 +10,8 @@ public class TestFile2 {
 		System.out.println("변경 코드");
 		System.out.println("???");
 		//해결
+		//변경하기
+		//더워요
+		//테스트 해볼게요
 	}
 }
